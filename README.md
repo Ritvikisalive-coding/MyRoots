@@ -1,6 +1,6 @@
 # MyRoots
 
-<p align="center"><img src="/Images/Logo1.png"></p>
+<p align="center"><img src="/Images/Logo.png"></p>
 
 
 ---
